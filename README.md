@@ -1,2 +1,2 @@
-# Panel_SMM
-Panel SMM with Database
+# SMM Panel
+SMM Panel with Database
